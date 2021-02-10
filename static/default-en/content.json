@@ -1,0 +1,297 @@
+{
+  "title": "減災力テスト　BASIC cource",
+  "summary": {
+    "81-100": {
+      "remark": "Excellent",
+      "description": "You are prepared for various disasters.  Keep trying till you mark 100 points if you didn't this time.  Please try the intermediate course next.  You can encourage your friends and neighbors to get ready for future disasters, which will improve the disaster risk reduction  skills of your community and workplace. Encourage people around you to cope with any one of the items in this test.",
+      "img": "kao0.png"
+    },
+    "61-80": {
+      "remark": "Good",
+      "description": "You are partly ready for disasters.  Some of the items you marked \"No\" or \"a little\" may be difficult to put into practice, but try to turn as many of them as you can into \"Yes\" . Work with someone around you, like your friends and neighbors.  How about trying the intermediate course next time? ",
+      "img": "kao1.png"
+    },
+    "41-60": {
+      "remark": "Fair",
+      "description": "You have understood the necessity of preparing for disasters, but haven't put them into action.  Try to make one of the items you marked \"No\" or \"a little\", that would cause you trouble in case of a disaster, into  \"Yes\".  How about working with someone around you,  like your friends and neighbors?",
+      "img": "kao2.png"
+    },
+    "21-40": {
+      "remark": "Poor",
+      "description": "You seem to be at a loss for what to do to prepare for disasters even though you understand it is necessary.  Let's begin with trying to turn any one of the items you marked \"No\" or \"a little\" into \"Yes\".   How about working with someone around you, like your friends and neighbors?",
+      "img": "kao3.png"
+    },
+    "0-20": {
+      "remark": "Bad",
+      "description":  "You have hardly understood the necessity of preparing for disasters.  However, it is a great step for you to attempt this test.  Let's try to turn any one of the items, which seems the easiest or most helpful, into \"Yes\".  How about working with someone around you,  like your friends and neighbors?",
+      "img": "kao4.png"
+    }
+  },
+  "link": false,
+  "options": ["Yes", "Little", "No"],
+  "categories": [
+    {
+      "idx": 0,
+      "no": "1",
+      "text": "Protect your life from the earthquake",
+      "length": 6,
+      "max": 30,
+      "color": "#8B4513",
+      "q": [
+        {
+          "idx": 0,
+          "no": "Q1",
+          "text": "You have checked the fault map and earthquake hazard map (including information on intensity, liquefaction and tsunami, etc.) of your community.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Wonderful!  It would be helpful to understand the possible danger to your community in making a judgment under disasters and preparing yourself.  Check other places you spend a lot of time at besides your house: workplace or schools, for example. ",
+            "It would be helpful to understand the possible danger to your community in making a judgment during disasters and preparing yourself.  Check the \"hazard map\"  around your house, workplace or school. "
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q1.html"
+        },{
+          "idx": 1,
+          "no": "Q2",
+          "text": "You have secured your house against earthquakes.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Wonderful!  It is very important to make your house quakeproof to save your lives.  Check other places you spend a lot of time at besides your house: workplace or schools, for example, too.  Be sure to understand the difference between quakeproof and  quake-absorbing.",
+            "It is very important to make your house quakeproof to save your lives.  Check your house first.  If it is difficult to renovate your entire house to make it earthquake resistant, you can purchase an indoor earthquake shelter, subsidized by some local governments. "
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q2.html"
+        },{
+          "idx": 2,
+          "no": "Q3",
+          "text": "Furniture in the places you spend a lot of time (bedroom, living room and kitchen) are secured to prevent them from falling over.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Excellent!  Let's check if you have used \"tension rods\" properly, fixed furniture to wall or ceiling with \"brackets\" firmly and confirm the strength of furniture and ceiling.",
+            "Fallen furniture threatens our lives even if the building does not collapse.  Equip furniture with a fall prevention measure, at least in your bedroom and kitchen, so as not to be immobilized by an injury or trapped in the building."
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q3.html"
+        },{
+          "idx": 3,
+          "no": "Q4",
+          "text": "You and your family don't sleep in places where heavy furniture, shelves,  broken lights or glasses may fall on you in case of earthquake. ",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Excellent!  Let's try to consider how to place your furniture so they don't block off the doors and corridors in addition to how to make the places you sleep safe.　",
+            "Fallen furniture threatens our lives even if the building does not collapse.  Equipping furniture with  fall prevention measures, at least in your bedroom, is highly recommended because we are defenseless especially when we are sleeping."
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q4.html"
+        },{
+          "idx": 4,
+          "no": "Q5",
+          "text": "You can protect your body, especially head, at the moment of quake or urgent earthquake alarm.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Good of you to be able to take an action to protect yourself.  Confirm how to keep your position during a strong earthquake.  Also, be prepared so you can protect yourself from falling objects in a room without tables.",
+            "Adults tend not to be able to take protective action compared to children.  The exercise responding to the emergency earthquake warning, called \"Shakeout\", is being conducted these days.  The walls and billboards will fall off at the time of an earthquake.  Let's take part in  Shakeout so you take action in places without tables. "
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q5.html"
+        },{
+          "idx": 5,
+          "no": "Q6",
+          "text": "You can evacuate to higher ground without hesitation in case of a severe earthquake while visiting or living close to the sea, even if nobody else does. ",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Many people tend to think that they will be OK or they don't have to take refuge because no one else does.  People who evacuate without hesitation like you will be very valuable.  Please contribute in mitigating damage by evacuating without hesitation.",
+            "Many people tend to think they will be OK because no one is evacuating.   Evacuate right after an earthquake.  Even if tidal wave (tsunami) does not come and your evacuation is a waste,  thank god nothing happened.  "
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q6.html"
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "no": "2",
+      "text": "Response immediately after the earthquake",
+      "length": 4,
+      "max": 20,
+      "color": "#FF8C00",
+      "q": [
+        {
+          "idx": 6,
+          "no": "Q7",
+          "text": "You have secured enough power for your mobile phone to utilize it (including apps and SNS)  in preparation for disasters.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Good preparation.  Ensuring communication means will be helpful in various situations like confirming safety of your family or friends, refuge life or supporting disaster victims.  Encourage your family and friends to prepare for themselves because many people have not yet done so.",
+            "You can reach your family or friends more easily by communication measures like disaster message dial or app for Smartphone than normal phone calls.  It is very useful to secure communication measures to use in such cases as confirming safety, refuge life or supporting victims.  "
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q7.html"
+        },{
+          "idx": 7,
+          "no": "Q8",
+          "text": "You and your family have enough food to survive for about a week without gas, electric power and tap water.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "It is wonderful of you to have prepared so you can have meals without tap water, electric power and gas.  You must have lived a life with high capability to respond to disasters.   Keep up your effort.  It will also lead to reduce the burden of refuge centers.",
+            "It might be difficult to stock another week's worth of food.  However, you can check how long you will be able to survive on the food you usually have stocked and make sure what you need more of."
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q8.html"
+        },{
+          "idx": 8,
+          "no": "Q9",
+          "text": "You will be able to provide light and heating for about a week during a power failure.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "We feel uneasy without light.  We will be in danger of losing our lives without heating in winter.  Inspect what you have prepared regularly to see if you can really use them in case of a disaster. ",
+            "We feel uneasy without light.  We should prepare heating operated without electricity for disaster in winter.  Many types of emergency supplies are on the market.  Pick up necessary and suitable ones for you. "
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q9.html"
+        },{
+          "idx": 9,
+          "no": "Q10",
+          "text": "You and your family have discussed what you should do after an earthquake,  how to contact each other in case you are in separate places when the earthquake strikes, for example. ",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Excellent that you have had a discussion.  If your discussion is focusing too much on evacuation, try to talk about how to  protect your lives:  earthquake proofing of the building and fall prevention of the furniture, for example.  The items shown in this test are recommended as the topics in your discussion. ",
+            "Communicating with each other helps you to confirm safety and avoid being isolated.  Talk with your family about the items in this test which includes important things, in addition to confirming how to contact each other.  If you have no family, talk with your friends, colleagues and relatives."
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q10.html"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "no": "3",
+      "text": "Collection and judgment of information that protects life from wind and flood damage / landslide disaster",
+      "length": 6,
+      "max": 30,
+      "color": "#00BFFF",
+      "q": [
+        {
+          "idx": 10,
+          "no": "Q11",
+          "text": "You have looked at the hazard map of your community to check dangerous places in case of storm, flood and landslide disaster.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Excellent that you know the possible danger to your community.  It will help you to make a decision in time of disaster and to prepare yourself against possible emergency.  Have a look at the hazard map around your workplace or school, the places you spend a lot of time beside your house. ",
+            "Knowing the possible danger to your community will help you to make a decision during a disaster and aid  your preparation.  Find and check the \"hazard map\" around your house, workplace or school."
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q11.html"
+        },{
+          "idx": 11,
+          "no": "Q12",
+          "text": "You have had a look yourself at the dangerous places in case of storm, flood and landslide disaster in your community.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Good of you to have checked dangerous places with your own eyes.  Let's check other dangerous points around your workplace or school, places you spend a lot of time.  That will help you to make a decision during a disaster and prepare yourself against possible emergency.",
+            "Having a look at the dangerous places would help you to make a decision during a disaster and aid preparation.  Confirming the lack of danger with your own eyes would also be meaningful.  It might be good to take a walk while looking at the hazard map and participate in community disaster prevention events."
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q12.html"
+        },{
+          "idx": 12,
+          "no": "Q13",
+          "text": "You have understood types of evacuation, horizontal evacuation, vertical evacuation and staying at the safest place in your house,   depending on the danger of storm, flood and landslide disasters.  You have also decided where and how to take temporary shelter.  ",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "You are considered invaluable because you have understood the meaning and importance of evacuating vertically and staying at the safest place although many people just think of horizontal evacuation to a shelter when speaking of evacuation.  Inform your family and friends of the difference between those types of evacuation and think about it together.",
+            "Most of the victims are people who got out of their house during the flood or stayed on the first floor on the occasion of landslide disaster.   Staying home or evacuating  upstairs will be an important choice.   "
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q13.html"
+        },{
+          "idx": 13,
+          "no": "Q14",
+          "text": "You have actively gathered necessary information, such as rainfall and river level, by yourself to decide whether you should evacuate or not regardless of the information provided by the (local) government.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "It has become much easier to access the information on river water level provided by national or local governments and on rainfall provided by Meteorological  Agency or weather information companies.  Keep track of this information to make a decision when and how to evacuate in case of disaster.",
+            "Evacuation information, such as evacuation advisory, is a judgment issued to particular areas based on the condition of rivers, soil and weather by the government.  Collect various information to make a decision by yourself when evacuation preparation information is issued."
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q14.html"
+        },{
+          "idx": 14,
+          "no": "Q15",
+          "text": "You are prepared to be \"positively isolated\"  when it seems more dangerous to move to the temporary shelter in case of flood and heavy rain. ",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Wonderful!  You have understood the danger of going out in the middle of storm and flood.  Early evacuation is the basic theory, but you should also understand \"being positively isolated\" could be a choice to save your life in some cases.",
+            "Realize the danger of getting out of house in the middle of storm and flood.  Early evacuation is fundamental, but \"positive isolation\" could be a choice to save your life in the case of failing to escape beforehand."
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q15.html"
+        },{
+          "idx": 15,
+          "no": "Q16",
+          "text": "You have discussed what to do in the time of flood, storm and landslide disaster with your family.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Good!  You have had a discussion with your family.  Keep talking about the questions in this test regularly, on the occasions of typhoons, for example.",
+            "It is very important to have a discussion with your family for evacuating and preparing.  Talk with your friends, colleagues or relatives if you have no immediate family.  How about having a talk with them about the items in this test regularly, on the occasion of typhoons, for example? "
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q16.html"
+        }
+      ]
+    },
+    {
+      "no": "4",
+      "text": "Protecting your life from disasters Neighborhood relationship",
+      "length": 4,
+      "max": 20,
+      "color": "#8A2BE2",
+      "q": [
+        {
+          "idx": 16,
+          "no": "Q17",
+          "text": "You usually take part in community activities such as neighborhood group, children's group, cleaning projects and athletic meets.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "It is wonderful of you to take part in the community activities from the viewpoint of saving your lives in case of disasters.  Building good relationships with your neighbors is indispensable for helping each other during a disaster.  Keep on participating in such activities in order to meet your neighbors regularly.",
+            "It is important to take part in community activities from the viewpoint of saving your lives from disasters.   Building good relationships with your neighbors is indispensable for helping each other during a disaster.  Try to participate in such activities as a good opportunity to meet your neighbors."
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q17.html"
+        },{
+          "idx": 17,
+          "no": "Q18",
+          "text": "You have discussed what to do in preparation for natural disasters (to prevent and mitigate disasters),  with your neighbor or in your community.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Excellent!  Exchanging information with your neighbors will help to realize appropriate measures against disasters.  Consider how to help foreigners and the handicapped, too.",
+            "The discussion doesn't have to be a \"conference\".  Even a free chat is OK.  Try to talk about the items of this test.  Think about how to help foreigners and the handicapped, too."
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q18.html"
+        },{
+          "idx": 18,
+          "no": "Q19",
+          "text": "You have built a good relationship with your neighbors and understood who needs help in the time of evacuation.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "You live in a nice community.  It would be more wonderful if your family and neighbors answer the same as you. ",
+            "Many people say they don't know who needs support although they have a good relationship with their neighbors.  Imagine the elderly and handicapped people around you.  What kind of trouble could they have during a disaster?"
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q19.html"
+        },{
+          "idx": 19,
+          "no": "Q20",
+          "text": "You have willingly taken part in disaster drills in your community.",
+          "score_list": [5, 2, 0],
+          "max": 5,
+          "comments": [
+            "Keep on participating in the disaster drill.  It is important that neighbors meet each other at such an occasion.  If you have a question about the drill content, how about participating in the planning stage?  Serving as a board member of the local association could be a good opportunity.",
+            "Take part in the drill once.  It is very important to meet your neighbors there.   If you have a question about the drill content, how about participating in the planning stage?  Serving as a board member of the local association could be a good opportunity."
+          ],
+          "quote": "http://gensai-classroom.do-it-yourself2014.com/q20.html"
+        }
+      ]
+    }
+  ]
+}

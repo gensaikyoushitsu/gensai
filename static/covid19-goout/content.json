@@ -1,0 +1,86 @@
+{
+  "title": "減災教室　新型コロナ対応　外出後チェック",
+  "summary": {
+    "91-100": {
+      "remark": "気を付けて、いってらっしゃい！",
+      "description": "できるだけのことはしていますが、どんなに対策しても感染の可能性はあることは覚えておいてください。",
+      "img": "kao0.png"
+    },
+    "0-90": {
+      "remark": "対策してから外出しましょう！",
+      "description": "できていない項目をクリアしましょう！",
+      "img": "kao4.png"
+    }
+  },
+  "options": ["はい", "いいえ"],
+  "categories": [
+    {
+      "idx": 0,
+      "no": "1",
+      "text": "新型コロナへの対応",
+      "max": 100,
+      "color": "#8B4513",
+      "q":[
+        {
+          "text": "十分な睡眠を取りましたか？",
+          "score_list": [10, 0],
+          "max": 10
+        },
+        {
+          "text": "発熱していませんか？",
+          "img": "static/img/covid-19/Q2.png",
+          "score_list": [10, 0],
+          "max": 10
+        },
+        {
+          "text": "体調は大丈夫ですか？",
+          "img": "static/img/covid-19/Q3.png",
+          "score_list": [10, 0],
+          "max": 10
+        },
+        {
+          "text": "マスクは着けましたか？",
+          "score_list": [10, 0],
+          "max": 10,
+          "img": "static/img/covid-19/Q4.png"
+        },
+        {
+          "text": "咳エチケットを忘れずにしますか？",
+          "score_list": [10, 0],
+          "max": 10,
+          "img": "static/img/covid-19/Q5.png"
+        },
+        {
+          "text": "外出先で手洗いとうがいをしますか？",
+          "score_list": [10, 0],
+          "max": 10,
+          "img": "static/img/covid-19/Q6.png"
+        },
+        {
+          "text": "外出先でアルコール消毒をしますか？",
+          "score_list": [10, 0],
+          "max": 10,
+          "img": "static/img/covid-19/Q7.png"
+        },
+        {
+          "text": "大勢が集まる場所（密集）を避けますか？",
+          "score_list": [10, 0],
+          "max": 10,
+          "img": "static/img/covid-19/Q8.png"
+        },
+        {
+          "text": "近距離で会話する場面（密接）を避けますか？",
+          "score_list": [10, 0],
+          "max": 10,
+          "img": "static/img/covid-19/Q9.png"
+        },
+        {
+          "text": "換気の悪い空間（密閉）を避けますか？",
+          "score_list": [10, 0],
+          "max": 10,
+          "img": "static/img/covid-19/Q10.png"
+        }
+      ]
+    }
+  ]
+}
